@@ -1,0 +1,32 @@
+(use 'midje.repl)
+(autotest)
+exit
+(use 'midje.repl)
+(autotest)
+exit
+(use 'midje.repl)
+(autotest)
+exit
+(use 'midje.repl)
+(autotest)
+exit
+(use 'midje.repl)
+(autotest)
+(use 'midje.repl)
+(autotest)
+exit
+(use 'midje.repl)
+(autotest)
+exit
+(use 'midje.repl)
+(autotest)
+(use 'midje.repl)
+(autotest)
+(use 'midje.repl)
+(autotest)
+(use 'midje.repl)
+(autotest)
+(use 'midje.repl)
+(autotest)
+:q!
+exit
